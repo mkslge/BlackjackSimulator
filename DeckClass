@@ -1,0 +1,52 @@
+package deckOfCards;
+import java.util.Collections;
+import java.util.Random;
+import java.util.ArrayList;
+
+
+/*Class that represents deck
+ * 
+ */
+
+public class Deck {
+  private ArrayList<Card> cards;
+	private static final int REMOVED_INDEX = 0;
+	 /*
+	 * Initalizes deck object
+	 */
+	public DeckClass() {
+		//Initializes ArrayList
+		cards = new ArrayList<>();
+		
+		 /*
+		 * Adds every card to the deck
+		 */
+		for(Suit currSuit : Suit.values()) {
+			for(Rank currRank : Rank.values()) {
+				Card currCard = new Card(currRank,currSuit);
+				cards.add(currCard);
+			}
+		}
+	}
+	
+	/*
+	 * Shuffles all the cards in random order
+	 */
+	public void shuffle(Random rng) {
+		Collections.shuffle(cards,rng);
+	}
+
+
+
+   /* Deals one card to either the dealer or the player
+	 * 
+	 */
+	public Card dealOneCard() {
+		//initializes card that dealer/player will get
+		Card tempCard = cards.get(REMOVED_INDEX);
+		//removes card from deck
+		cards.remove(REMOVED_INDEX);
+		return tempCard;
+	}
+	
+}
