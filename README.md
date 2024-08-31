@@ -17,6 +17,20 @@ Below are some screenshots showcasing the Blackjack Simulator in action:
 
 
 
+<img width="946" alt="Screen Shot 2024-08-31 at 12 30 37 PM" src="https://github.com/user-attachments/assets/97aac424-3dbd-4b39-a224-cdb76c77c02e">
+
+
+
+<img width="952" alt="Screen Shot 2024-08-31 at 12 44 35 PM" src="https://github.com/user-attachments/assets/a628c618-5f7e-40cf-adaf-678a3bb24e2e">
+
+
+
+<img width="941" alt="Screen Shot 2024-08-31 at 12 45 47 PM" src="https://github.com/user-attachments/assets/568f4ff2-c668-443a-b789-00a1314fb828">
+
+
+
+
+
 
 
 
