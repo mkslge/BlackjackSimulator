@@ -13,6 +13,9 @@ Game Logic: Includes rules for Blackjack, card values, and dealer behavior.
 Screenshots
 Below are some screenshots showcasing the Blackjack Simulator in action:
 
+<img width="949" alt="Screen Shot 2024-08-31 at 12 28 46 PM" src="https://github.com/user-attachments/assets/34133f6d-062d-42fd-adca-59fe30782474">
+
+
 
 
 
