@@ -4,7 +4,7 @@ Welcome to the Blackjack Simulator project! This project is a Java-based applica
 Features
 Interactive Gameplay: Play against the dealer with options to hit, stand, and manage your bet.
 
-User-Friendly Interface: Designed with Java Swing to provide a smooth and engaging gaming experience.
+User-Friendly Interface: Designed with Java Swing
 
 Card Animation: Visual representation of card dealing and game progression.
 
