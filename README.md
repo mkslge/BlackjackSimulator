@@ -35,7 +35,7 @@ Below are some screenshots showcasing the Blackjack Simulator in action:
 
 
 Accessing the Source Code
-The source code for this project is private. If you are interested in accessing the code or would like to learn more about the project as this is a school project, please email me at marklseeliger@gmail.com.
+The source code for this project is private, as this is a school project. If you are interested in accessing the code or would like to learn more about the project, please email me at marklseeliger@gmail.com.
 
 Contact
 If you have any questions or need further assistance, feel free to reach out via email at marklseeliger@gmail.com.
