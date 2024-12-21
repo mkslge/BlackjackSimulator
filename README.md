@@ -1,5 +1,5 @@
 Blackjack Simulator
-Welcome to the Blackjack Simulator project! This project is a Java-based application that simulates the classic game of Blackjack, featuring an intuitive graphical interface built with Swing.
+This project is a Java-based application that simulates the classic game of Blackjack, featuring an intuitive graphical interface built with Swing.
 
 Features
 Interactive Gameplay: Play against the dealer with options to hit, stand, and manage your bet.
